@@ -2,5 +2,4 @@
 title: The Campaign of Bros Wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the official wiki for The Campaign of Bros.  It's not a matter of if but when you are going to cum.
