@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: The Campaign of Bros Wiki
 ---
 
 This is a blank Quartz installation.
