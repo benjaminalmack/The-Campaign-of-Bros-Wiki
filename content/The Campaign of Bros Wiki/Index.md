@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
+    - NPCs
   sceneTemplate: z_templates/chapter.md
   ignoredFiles: []
 ---
