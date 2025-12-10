@@ -10,3 +10,6 @@ longform:
   sceneTemplate: z_templates/chapter.md
   ignoredFiles: []
 ---
+Table of Contents
+[[Introduction]]
+[[NPCs]]
