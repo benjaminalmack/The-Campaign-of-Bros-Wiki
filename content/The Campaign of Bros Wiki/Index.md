@@ -12,7 +12,7 @@ longform:
     - 5. The Lore
     - 6. Spells
     - 7. Weapons
-    - 8. Maps
+    - 8. Locations
   sceneTemplate: z_templates/chapter.md
   ignoredFiles: []
 ---
