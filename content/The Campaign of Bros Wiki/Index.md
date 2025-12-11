@@ -6,11 +6,13 @@ longform:
   sceneFolder: /
   scenes:
     - 1. Introduction
-    - 2. Summary of Events
+    - 2. The Story So Far...
     - 3. Your Characters
     - 4. NPCs
     - 5. The Lore
     - 6. Spells
+    - 7. Weapons
+    - 8. Maps
   sceneTemplate: z_templates/chapter.md
   ignoredFiles: []
 ---
