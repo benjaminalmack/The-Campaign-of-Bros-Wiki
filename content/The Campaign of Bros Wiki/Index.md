@@ -13,6 +13,8 @@ longform:
     - 6. Spells
     - 7. Weapons
     - 8. Locations
+    - 9. Special Campaign Items
+    - 10. Monsters and Fiends
   sceneTemplate: z_templates/chapter.md
   ignoredFiles: []
 ---
