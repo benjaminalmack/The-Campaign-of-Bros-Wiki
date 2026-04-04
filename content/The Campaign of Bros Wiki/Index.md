@@ -15,6 +15,7 @@ longform:
     - 8. Locations
     - 9. Special Campaign Items
     - 10. Monsters and Fiends
+    - 11. Quests & Stories
   sceneTemplate: z_templates/chapter.md
   ignoredFiles: []
 ---
